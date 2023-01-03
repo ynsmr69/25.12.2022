@@ -1,1 +1,3 @@
-# 25.12.2022
+## BASİT ÖĞRENCİ KAYIT FORMU
+
+<p>html5 ile yapılan ilk basit tasarım</p>
